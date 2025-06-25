@@ -1,0 +1,10 @@
+C:\Users\User\workspace-IntelliJ\Java\Event-driven-MS\event-driven-microservices\section3\gatewayserver\src\main\java\com\eazybytes\gatewayserver\config\ClientConfig.java
+C:\Users\User\workspace-IntelliJ\Java\Event-driven-MS\event-driven-microservices\section3\gatewayserver\src\main\java\com\eazybytes\gatewayserver\dto\AccountsDto.java
+C:\Users\User\workspace-IntelliJ\Java\Event-driven-MS\event-driven-microservices\section3\gatewayserver\src\main\java\com\eazybytes\gatewayserver\dto\CardsDto.java
+C:\Users\User\workspace-IntelliJ\Java\Event-driven-MS\event-driven-microservices\section3\gatewayserver\src\main\java\com\eazybytes\gatewayserver\dto\CustomerDto.java
+C:\Users\User\workspace-IntelliJ\Java\Event-driven-MS\event-driven-microservices\section3\gatewayserver\src\main\java\com\eazybytes\gatewayserver\dto\CustomerSummaryDto.java
+C:\Users\User\workspace-IntelliJ\Java\Event-driven-MS\event-driven-microservices\section3\gatewayserver\src\main\java\com\eazybytes\gatewayserver\dto\LoansDto.java
+C:\Users\User\workspace-IntelliJ\Java\Event-driven-MS\event-driven-microservices\section3\gatewayserver\src\main\java\com\eazybytes\gatewayserver\GatewayserverApplication.java
+C:\Users\User\workspace-IntelliJ\Java\Event-driven-MS\event-driven-microservices\section3\gatewayserver\src\main\java\com\eazybytes\gatewayserver\handler\CustomerCompositeHandler.java
+C:\Users\User\workspace-IntelliJ\Java\Event-driven-MS\event-driven-microservices\section3\gatewayserver\src\main\java\com\eazybytes\gatewayserver\router\CustomerCompositeRouter.java
+C:\Users\User\workspace-IntelliJ\Java\Event-driven-MS\event-driven-microservices\section3\gatewayserver\src\main\java\com\eazybytes\gatewayserver\service\client\CustomerSummaryClient.java

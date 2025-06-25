@@ -1,0 +1,10 @@
+com\eazybytes\gatewayserver\dto\LoansDto.class
+com\eazybytes\gatewayserver\service\client\CustomerSummaryClient.class
+com\eazybytes\gatewayserver\dto\CustomerSummaryDto.class
+com\eazybytes\gatewayserver\config\ClientConfig.class
+com\eazybytes\gatewayserver\dto\AccountsDto.class
+com\eazybytes\gatewayserver\handler\CustomerCompositeHandler.class
+com\eazybytes\gatewayserver\GatewayserverApplication.class
+com\eazybytes\gatewayserver\router\CustomerCompositeRouter.class
+com\eazybytes\gatewayserver\dto\CardsDto.class
+com\eazybytes\gatewayserver\dto\CustomerDto.class
